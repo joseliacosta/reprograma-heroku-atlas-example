@@ -29,3 +29,16 @@ add ip address
 
 allow access from anywhere
 confirm
+
+
+# heroku
+
+Deploy
+
+Deployment method -> github
+
+app connected to github
+escolher repositório
+
+automatic deploys
+manual deploy
