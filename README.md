@@ -42,3 +42,7 @@ escolher repositório
 
 automatic deploys
 manual deploy
+
+caso precise visualizar os logs
+
+heroku logs --tail --app julieta-is-an-impostor
